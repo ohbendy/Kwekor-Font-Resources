@@ -1,9 +1,9 @@
 # Consonants
 
-| # | Kwekor character | Kwekor name | Myanmar equivalent | Myanmar name | S'gaw name | Thai transcription | Thai name | English transcription | 
-|:-:|:-:|:--|:--|:--|:--|:--|:--|:--|
-|1|||က|က.ခေါဟ်|ကးခိၣ်|ก|กะ โด|ka|
-|2|||ခ|ခ.ခါင့်|ခးခံ|ข|คะ ดี|kha|
-|3|||ဂ|ဂ.ကီးလး|ကးကံၢ်လာ်|ค|กะ กีลา|ga|
-|4|||ဃ|ဃ.ဃဲး|ဃးဃံ|ฆ|ฆะ กระดูก|gha|
-|5|||င|င.သီ|ငးသံ|ง|ง ตาย|nga|
+| # | Kwekor character | Kwekor name | Myanmar letter | Burmese name | Pwo name | S'gaw name | Thai letter | Thai name | IPA | English name | Unicode name |
+|:-:|:-:|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|1|||က|ကာ ခို့|က.ခေါဟ်|ကးခိၣ်|ก|กะ โด|/k/|ka kho|KA|
+|2|||ခ|ခါ ခီး|ခ.ခါင့်|ခးခံ|ข|คะ ดี|/kʰ/|kha khaing / kha khi|KHA|
+|3|||ဂ|ဂါ ဂီးဠာ|ဂ.ကီးလး|ကးကံၢ်လာ်|ค|กะ กีลา|/g/|ga gilaa|GA|
+|4|||ဃ|ဃာ ဃီး|ဃ.ဃဲး|ဃးဃံ|ฆ|ฆะ กระดูก|/x/|gha ghi|GHA|
+|5|||င|င သီး|င.သီ|ငးသံ|ง|ง ตาย|/ŋ/|nga thi|NGA|
