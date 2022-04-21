@@ -1,6 +1,8 @@
 # Consonants
 
-As the Kwekor letter names contain sounds alien to the Burmese, Thai and Latin scripts, the names presented here are rather subjective, and the transcriptions here come from different sources. We need a reliable transcription scheme. Eastern Pwo and S'gaw Karen use different subsets of this alphabet, and for those letters that are shared between both languages, the sound values may differ. IPA values are extremely uncertain.
+The Burmese, Thai and English transcriptions here come from different sources. As the Kwekor letter names contain sounds alien to those scripts, the names presented here are rather subjective/inconsistent; ideally we'd use a standard transcription scheme. 
+
+Eastern Pwo and S'gaw Karen languages use different subsets of this alphabet, and for those letters that are shared between both languages, the sound values may differ. IPA values are extremely uncertain.
 
 | # | Kwekor character | Kwekor name | Myanmar letter | Burmese name | Pwo name | S'gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
 |:-:|:-:|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
