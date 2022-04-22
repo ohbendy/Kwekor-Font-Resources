@@ -25,7 +25,7 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |17|||ၡ/ယှ|ၡ ခလေား|ယှ. ခၠိုင့်||ซ|ฆะ เคละ|/s-ʃ/|sha kloe|SHA|
 |18|||ရ|ရ ရူ|||ร|ระ เรอะ|/r/|ra ruu|RA|
 |19|||ဝ|ဝ အောနူ|||ว|วะ ออนุ|/w/|wa onuu|WA|
-|20|||သ/ဿ|သာ သွီ့|||ฌ|ฟะ ชุย|/θ/|tha thwi|THHA|
+|20|||သ/ဿ|သာ သွီ့|||ฌ/ฟ|ฟะ ชุย|/θ/|tha thwi|THHA|
 |21|||န|န နာ|||น|นะ น่าเด|/n/|na naa|NA|
 |22|||ထ|ထ ထု|||ถ|ทะ ทู|/tʰ/|tha thu|THA|
 |23|||ဍ|ဍါ ဒေး|||ด|ดะ เด|/d/|da dee|DDA|
