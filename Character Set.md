@@ -1,12 +1,13 @@
 # Consonants
 
 The Burmese, Thai and English transcriptions here come from different sources. As the Kwekor letter names contain sounds alien to those scripts, the names presented here are rather subjective approximations and in some cases are mutually inconsistent; ideally we'd use a standard transcription scheme. 
+
 Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, and for those letters that are shared between both languages, the sound values may differ. IPA values are extremely uncertain.
 
 | # | Kwekor character | Kwekor name | Myanmar letter | Burmese name |  Pwo name  | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
-| 1 |                |             |      က        |     ကာ ခို့     |  က.ခေါဟ်   |    ကးခိၣ်    |      ก      |   กะ โค   | /k/ |    ka kho    |     KA                 |
-| 2 |                |             |       ခ        |     ခါ ခီး     |    ခ.ခါင့်    |     ခးခံ    |      ข      |    คะ คี   | /kʰ/|   kha khaing / kha khi |   KHA        |
+| 1 |![KwekorKa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a6cff939-5c2f-4892-afcc-47f6f4be2ec9) |             |      က        |     ကာ ခို့     |  က.ခေါဟ်   |    ကးခိၣ်    |      ก      |   กะ โค   | /k/ |    ka kho    |     KA                 |
+| 2 |![KwekorKha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f02d6164-3bdb-4c05-b633-cef34b9d9804) |             |       ခ        |     ခါ ခီး     |    ခ.ခါင့်    |     ခးခံ    |      ข      |    คะ คี   | /kʰ/|   kha khaing / kha khi |   KHA        |
 | 3 |                |             |       ဂ        |     ဂါ ဂီးဠာ    |   ဂ.ကီးလး  |  ကးကံၢ်လာ်  |ค|กะ กีลา|/g/|ga gilaa|GA|
 | 4 |                |             |       ၰ       |     ဃာ ဃီး    | ဃ.ဃဲး/ၰ.ၰုဲး|  ဃးဃံ     |ฆ|ฆะ กระดูก|/x/|gha ghii|GHA|
 | 5 |                |             |       င        |     င သီး     |   င.သီ      |  ငးသံ      |ง|งะ ซี|/ŋ/|nga thi|NGA|
