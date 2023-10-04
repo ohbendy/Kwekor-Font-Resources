@@ -19,8 +19,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |11 |![KwekorNnya](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a318b438-25ed-4cd5-8265-0be3f67b8cb6) |             |       ည       |     ည ဝီးညော်   |   ည ဝီဉာဏ် | ညးဝံးညီၣ်   |ญ|ญะ วีญ่อ|/ɲ/|nya winyo|NNYA|
 |12 |![KwekorPa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d740ff95-794c-4459-907c-af2cd0bcd13d) |             |       ပ        |     ပ ပလေ    |   ပ.ဖၠေဝ်    | ပးပျ့ၤ      |ป|ปะ ผลี|/p/|pa ple|PA|
 |13 |![KwekorPha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/37c318a9-c878-4d60-b2d1-3391a6f57eaf) |             |       ဖ        |     ဖ ဖေ      |   ဖ. ဖါ်    | ဖးဖ့ၣ်      |ผ|ผะ เผะ|/pʰ/|pha phe|PHA|
-|14 |                |             |       ဗ        |     ဗ ဖွေ     |   ဗ. ဃွှိက်   | ဘးဘှ့ၣ်     |พ|ปะ ปุย|/b/|ba bwe|BA|
-|15 |                |             |       ဘ       |     ဘ ခေါ့မေ့   |  ဘ. ခင်းမေံ  | ဘးခီၣ်မ့ၣ်   |ภ|ปะ คอเม|/b/|ba khome|BHA|
+|14 |![KwekorBa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/6338fd9e-c640-4ca4-9d63-6cb323e548b5) |             |       ဗ        |     ဗ ဖွေ     |   ဗ. ဃွှိက်   | ဘးဘှ့ၣ်     |พ|ปะ ปุย|/b/|ba bwe|BA|
+|15 |![KwekorBha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f570974e-327d-4673-a442-0a9cc94a7506) |             |       ဘ       |     ဘ ခေါ့မေ့   |  ဘ. ခင်းမေံ  | ဘးခီၣ်မ့ၣ်   |ภ|ปะ คอเม|/b/|ba khome|BHA|
 |16 |                |             |       မ        |     မ မဲ      |    မ. မဲ    |   မးမဲ     |ม|มะ เม|/m/|ma me|MA|
 |17 |                |             |       ယ       |     ယ ယာ    |    ယ.ယ်ု    | ယးယၤ     |ย|ยะ ห͟ย่า|/j/|ya yaa|YA|
 |18 |                |             |       ၡ/ယှ     |     ၡ ခလေား   |   ယှ. ခၠိုင့်   | ရှးချၤ     |ซ|ฆะ เคละ|/s-ʃ/|sha kloe|SHA|
