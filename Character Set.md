@@ -31,8 +31,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |23 |![KwekorTha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/6c3b1c34-ba98-497b-81e1-753221ff82aa) |             |       ထ       |     ထ ထု      |   ထ.ထံင်း   |  ထးထူၣ်   |ถ|ทะ ทู|/tʰ/|tha thu|THA|
 |24 |![KwekorDda](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ea995ed5-a6fd-4ba1-bd2a-0a30a5877d8e) |             |       ဍ        |     ဍါ ဒေး     |  ဍ.ဍေဝ်     |    ဒးဒ့  |ด|ดะ เด|/d/|da dee|DDA|
 |25 |![KwekorDa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/cf1d25cd-88f2-4255-a334-2b3d391a8c73) |             |       ဒ        |     ဒါ မေား    |  ဒ.မေါဝ့်     |    ဒးမိၢ်  |ท|ทะ โม|/d/|da moo|DA|
-|26 |                |             |       ဓ        |     ဓာ ဖား    |   ဓ.ဖါ့      |    ဒးဖါ   |ธ|ธะ พา|/d/|da pha|DHA|
-|27 |                |             |       သ       |     သ သာ    |    သ.သာ    |   သးသး  |ส|ซะ สะ|/s-θ/|sa saa|SA|
+|26 |![KwekorDha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/2bf35deb-d78c-40d9-9564-183af9542136) |             |       ဓ        |     ဓာ ဖား    |   ဓ.ဖါ့      |    ဒးဖါ   |ธ|ธะ พา|/d/|da pha|DHA|
+|27 |![KwekorSa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/01841414-b323-4f27-bf66-9f92ae490469) |             |       သ       |     သ သာ    |    သ.သာ    |   သးသး  |ส|ซะ สะ|/s-θ/|sa saa|SA|
 |28 |                |             |       ၜ/ဘ     |     ဘ ဘေ့    |   ၜ.ၜိင်း     |   ဘးဘ့ၣ်  |บ|พะ เพ|/ɓ/|ba be|BBA|
 |29 |                |             |       ဋ        |     ဋာ ယော်ဒေး |   ဍးယင့်ဍိင်   |   ဒးယီၢ်ဒ့  |ฑ|ดะ ยอเด|/ɗ/|da yodee|DDDA|
 |30 |                |             |       မု        |     မု မယ်    |   မ.မူ့မေံ     |    မုၢ်မဲာ်  |ม|มะ มึเม|/m/|mu me|MU|
