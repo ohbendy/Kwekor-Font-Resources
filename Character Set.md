@@ -35,8 +35,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |27 |![KwekorSa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/01841414-b323-4f27-bf66-9f92ae490469) |             |       သ       |     သ သာ    |    သ.သာ    |   သးသး  |ส|ซะ สะ|/s-θ/|sa saa|SA|
 |28 |![KwekorBba](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/0e48374f-94de-4af6-a98f-8af003b1ebc2) |             |       ၜ/ဘ     |     ဘ ဘေ့    |   ၜ.ၜိင်း     |   ဘးဘ့ၣ်  |บ|พะ เพ|/ɓ/|ba be|BBA|
 |29 |![KwekorDdda](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/da9b26ae-d6b2-41bc-b5e5-5264b4100da4) |             |       ဋ        |     ဋာ ယော်ဒေး |   ဍးယင့်ဍိင်   |   ဒးယီၢ်ဒ့  |ฑ|ดะ ยอเด|/ɗ/|da yodee|DDDA|
-|30 |                |             |       မု        |     မု မယ်    |   မ.မူ့မေံ     |    မုၢ်မဲာ်  |ม|มะ มึเม|/m/|mu me|MU|
-|31 |                |             |       လ        |     လ လား   |   လ.လါ/လာ |  လးလါ   |ล|ละ ลา|/l/|la laa|LA|
+|30 |![KwekorMma](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/cc6ed568-594d-49a4-b051-d3eeb29c9469) |             |       မု        |     မု မယ်    |   မ.မူ့မေံ     |    မုၢ်မဲာ်  |ม|มะ มึเม|/m/|mu me|MU|
+|31 |![KwekorLa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7b3da64e-c9bd-48a2-acd0-be201c1f5caf) |             |       လ        |     လ လား   |   လ.လါ/လာ |  လးလါ   |ล|ละ ลา|/l/|la laa|LA|
 |32 |                |             |       ဟ        |     ဟ ဟးဖား |  ဟ.ၯုဂ်ဖုံ့    |  ဟးဟုဖၢ်  |ห|ห๊ะ โห่พอ|/h/|ha huphoe|HA|
 |33 |                |             |       ၯ/ဂ     |     ၯ ဟူဘေ့  |  ၯ.ၯုင်ၜိင်း  |  ဂးဂုၢ်ဘ့ၣ်  |ฮ͟ง|ฮะ งึเพ|/ɣ-ɰ/|xa xube|GXA|
 |34 |                |             |       ဠ        |     ဠ ကလီ    |    ဠ.လီ    |  လးဂလံၤ  |ฬ|ฬะ ฟะหลิ/ฬะ ลม|/l/|la galii/la lom|LLA|
