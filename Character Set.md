@@ -15,8 +15,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 | 7 |![KwekorCha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/bdac1e94-a94f-4e33-a906-c0ce9cfda2ec) |             |       ဆ       |     ဆ စု      |   စ.စံင်း    |  ဆးဆဆူၣ်   |ฉ|ซะ ซื่อ|/sʰ/|sa su|CHA|
 | 8 |![KwekorJa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c5d0c1c3-8f3c-46e8-8b15-7750105fabc2) |             |       ဇ        |     ဇ မူး      |    ဇ.မိုင့်    | စးမူ       |ช|ชะ มือ|/s/|sa muu|JA|
 | 9 |![KwekorJha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c0b38c32-895d-4ad6-b87b-b030d8e4ac67) |             |       ဈ        |     ဈ စူးမေ့   | ဈ.စူးမေ/စူမီး | စးစူမ့ၣ်     |ฌ|ซะ ซู|/s/|sa suumee|JHA|
-|10 |                |             |       ဉ        |              |            |           | | |/ɲ/| |NYA|
-|11 |                |             |       ည       |     ည ဝီးညော်   |   ည ဝီဉာဏ် | ညးဝံးညီၣ်   |ญ|ญะ วีญ่อ|/ɲ/|nya winyo|NNYA|
+|10 |![KwekorNya](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d5eff07a-fbfe-403c-a51c-c98dded55274) |             |       ဉ        |              |            |           | | |/ɲ/| |NYA|
+|11 |![KwekorNnya](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a318b438-25ed-4cd5-8265-0be3f67b8cb6) |             |       ည       |     ည ဝီးညော်   |   ည ဝီဉာဏ် | ညးဝံးညီၣ်   |ญ|ญะ วีญ่อ|/ɲ/|nya winyo|NNYA|
 |12 |                |             |       ပ        |     ပ ပလေ    |   ပ.ဖၠေဝ်    | ပးပျ့ၤ      |ป|ปะ ผลี|/p/|pa ple|PA|
 |13 |                |             |       ဖ        |     ဖ ဖေ      |   ဖ. ဖါ်    | ဖးဖ့ၣ်      |ผ|ผะ เผะ|/pʰ/|pha phe|PHA|
 |14 |                |             |       ဗ        |     ဗ ဖွေ     |   ဗ. ဃွှိက်   | ဘးဘှ့ၣ်     |พ|ปะ ปุย|/b/|ba bwe|BA|
