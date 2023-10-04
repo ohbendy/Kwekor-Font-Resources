@@ -29,8 +29,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |21 |![KwekorFa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/2ad5af86-d564-4a11-b821-b142c2ee5a60) |             |       သ/ဿ    |     သာ သွီ့     |  ဿ.သုဲး/သုဲ  |  သးသွံၣ်   |ฌ/ฟ|ฟะ ชุย|/θ/|tha thwi|THHA|
 |22 |![KwekorNa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9a70eb0b-f457-4dc1-8962-a19ffc35a1ca) |             |       န        |     န နာ      |  န.နာ/ဏာ့   | နးနါဒ့     |น|นะ น่าเด|/n/|na naa|NA|
 |23 |![KwekorTha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/6c3b1c34-ba98-497b-81e1-753221ff82aa) |             |       ထ       |     ထ ထု      |   ထ.ထံင်း   |  ထးထူၣ်   |ถ|ทะ ทู|/tʰ/|tha thu|THA|
-|24 |                |             |       ဍ        |     ဍါ ဒေး     |  ဍ.ဍေဝ်     |    ဒးဒ့  |ด|ดะ เด|/d/|da dee|DDA|
-|25 |                |             |       ဒ        |     ဒါ မေား    |  ဒ.မေါဝ့်     |    ဒးမိၢ်  |ท|ทะ โม|/d/|da moo|DA|
+|24 |![KwekorDda](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ea995ed5-a6fd-4ba1-bd2a-0a30a5877d8e) |             |       ဍ        |     ဍါ ဒေး     |  ဍ.ဍေဝ်     |    ဒးဒ့  |ด|ดะ เด|/d/|da dee|DDA|
+|25 |![KwekorDa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/cf1d25cd-88f2-4255-a334-2b3d391a8c73) |             |       ဒ        |     ဒါ မေား    |  ဒ.မေါဝ့်     |    ဒးမိၢ်  |ท|ทะ โม|/d/|da moo|DA|
 |26 |                |             |       ဓ        |     ဓာ ဖား    |   ဓ.ဖါ့      |    ဒးဖါ   |ธ|ธะ พา|/d/|da pha|DHA|
 |27 |                |             |       သ       |     သ သာ    |    သ.သာ    |   သးသး  |ส|ซะ สะ|/s-θ/|sa saa|SA|
 |28 |                |             |       ၜ/ဘ     |     ဘ ဘေ့    |   ၜ.ၜိင်း     |   ဘးဘ့ၣ်  |บ|พะ เพ|/ɓ/|ba be|BBA|
