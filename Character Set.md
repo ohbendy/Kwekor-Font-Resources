@@ -4,12 +4,12 @@ The Burmese, Thai and English transcriptions here come from different sources. A
 
 Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, and for those letters that are shared between both languages, the sound values may differ. IPA values are extremely uncertain.
 
-| # | Kwekor letter | Kwekor name | Myanmar letter | Burmese name |  Pwo name  | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+| # | Kwekor letter | Kwekor name | Myanmar letter | Burmese name |  Pwo name <br>Hpa An dialect | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 | 1 |![KwekorKa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a6cff939-5c2f-4892-afcc-47f6f4be2ec9) |             |      က        |     ကာ ခို့     |  က.ခေါဟ်   |    ကးခိၣ်    |      ก      |   กะ โค   | /k/ |    ka kho    |     KA                 |
 | 2 |![KwekorKha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f02d6164-3bdb-4c05-b633-cef34b9d9804) |             |       ခ        |     ခါ ခီး     |    ခ.ခါင့်    |     ခးခံ    |      ข      |    คะ คี   | /kʰ/|   kha khaing / kha khi |   KHA        |
 | 3 |![KwekorGa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/67a90526-e684-4206-a7c0-f2611f26a0eb) |             |       ဂ        |     ဂါ ဂီးဠာ    |   ဂ.ကီးလး  |  ကးကံၢ်လာ်  |ค|กะ กีลา|/g/|ga gilaa|GA|
-| 4 |![KwekorGha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7deaa3db-9e9e-4031-a1af-122d5b937577) |             |       ၰ       |     ဃာ ဃီး    | ဃ.ဃဲး/ၰ.ၰုဲး|  ဃးဃံ     |ฆ|ฆะ กระดูก|/x/|gha ghii|GHA/XA?|
+| 4 |![KwekorGha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7deaa3db-9e9e-4031-a1af-122d5b937577) |             |       ၰ       |     ဃာ ဃီး    | ၰ.ၰုဲး|  ဃးဃံ     |ฆ|ฆะ กระดูก|/x/|gha ghii|GHA/XA?|
 | 5 |![KwekorNga](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/3feb22c6-973b-43ef-a68b-113bd96781e3) |             |       င        |     င သီး     |   င.သီ      |  ငးသံ      |ง|งะ ซี|/ŋ/|nga thi|NGA|
 | 6 |![KwekorCa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/1115bc7e-9bc3-44ee-bfae-54a6f9509338) |             |       စ        |     စ မယ်ခလီး |   စ.မေံခၠီ့    |  စးမဲာ်ချံ     |จ|ซะ แหม่คลี|/s/|sa mekhlii|CA|
 | 7 |![KwekorCha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/bdac1e94-a94f-4e33-a906-c0ce9cfda2ec) |             |       ဆ       |     ဆ စု      |   စ.စံင်း    |  ဆးဆဆူၣ်   |ฉ|ซะ ซื่อ|/sʰ/|sa su|CHA|
