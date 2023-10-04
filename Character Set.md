@@ -23,8 +23,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |15 |![KwekorBha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f570974e-327d-4673-a442-0a9cc94a7506) |             |       ဘ       |     ဘ ခေါ့မေ့   |  ဘ. ခင်းမေံ  | ဘးခီၣ်မ့ၣ်   |ภ|ปะ คอเม|/b/|ba khome|BHA|
 |16 |![KwekorMa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/62ca8eb9-5da8-473f-9289-2d96cf8bdd83) |             |       မ        |     မ မဲ      |    မ. မဲ    |   မးမဲ     |ม|มะ เม|/m/|ma me|MA|
 |17 |![KwekorYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4e2f10db-0d65-43b0-ac24-60afb7e5cffd) |             |       ယ       |     ယ ယာ    |    ယ.ယ်ု    | ယးယၤ     |ย|ยะ ห͟ย่า|/j/|ya yaa|YA|
-|18 |                |             |       ၡ/ယှ     |     ၡ ခလေား   |   ယှ. ခၠိုင့်   | ရှးချၤ     |ซ|ฆะ เคละ|/s-ʃ/|sha kloe|SHA|
-|19 |                |             |       ရ        |     ရ ရူ      |   ရ.ရုက်     | ရးရူၣ်     |ร|ระ เรอะ|/r/|ra ruu|RA|
+|18 |![KwekorSha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/df8f0368-2072-4a76-90eb-6f9e2c385f6a) |             |       ၡ/ယှ     |     ၡ ခလေား   |   ယှ. ခၠိုင့်   | ရှးချၤ     |ซ|ฆะ เคละ|/s-ʃ/|sha kloe|SHA|
+|19 |![KwekorRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8f34f8c3-363c-4ce0-a9e3-397670f24985) |             |       ရ        |     ရ ရူ      |   ရ.ရုက်     | ရးရူၣ်     |ร|ระ เรอะ|/r/|ra ruu|RA|
 |20 |                |             |       ဝ        |     ဝ အောနူ   | ဝ.အင်းနူ့/အင်းနု့ | ဝးအီၣ်နူၢ်  |ว|วะ ออนุ|/w/|wa onuu|WA|
 |21 |                |             |       သ/ဿ    |     သာ သွီ့     |  ဿ.သုဲး/သုဲ  |  သးသွံၣ်   |ฌ/ฟ|ฟะ ชุย|/θ/|tha thwi|THHA|
 |22 |                |             |       န        |     န နာ      |  န.နာ/ဏာ့   | နးနါဒ့     |น|นะ น่าเด|/n/|na naa|NA|
