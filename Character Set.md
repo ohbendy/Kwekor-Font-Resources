@@ -37,8 +37,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |29 |![KwekorDdda](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/da9b26ae-d6b2-41bc-b5e5-5264b4100da4) |             |       ဋ        |     ဋာ ယော်ဒေး |   ဍးယင့်ဍိင်   |   ဒးယီၢ်ဒ့  |ฑ|ดะ ยอเด|/ɗ/|da yodee|DDDA|
 |30 |![KwekorMma](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/cc6ed568-594d-49a4-b051-d3eeb29c9469) |             |       မု        |     မု မယ်    |   မ.မူ့မေံ     |    မုၢ်မဲာ်  |ม|มะ มึเม|/m/|mu me|MU|
 |31 |![KwekorLa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7b3da64e-c9bd-48a2-acd0-be201c1f5caf) |             |       လ        |     လ လား   |   လ.လါ/လာ |  လးလါ   |ล|ละ ลา|/l/|la laa|LA|
-|32 |                |             |       ဟ        |     ဟ ဟးဖား |  ဟ.ၯုဂ်ဖုံ့    |  ဟးဟုဖၢ်  |ห|ห๊ะ โห่พอ|/h/|ha huphoe|HA|
-|33 |                |             |       ၯ/ဂ     |     ၯ ဟူဘေ့  |  ၯ.ၯုင်ၜိင်း  |  ဂးဂုၢ်ဘ့ၣ်  |ฮ͟ง|ฮะ งึเพ|/ɣ-ɰ/|xa xube|GXA|
+|32 |![KwekorHa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/67607688-f222-41b1-903e-313bc88ea2b4) |             |       ဟ        |     ဟ ဟးဖား |  ဟ.ၯုဂ်ဖုံ့    |  ဟးဟုဖၢ်  |ห|ห๊ะ โห่พอ|/h/|ha huphoe|HA|
+|33 |![KwekorXa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/03559487-aa76-4aa7-b4ed-07d02a79e668) |             |       ၯ/ဂ     |     ၯ ဟူဘေ့  |  ၯ.ၯုင်ၜိင်း  |  ဂးဂုၢ်ဘ့ၣ်  |ฮ͟ง|ฮะ งึเพ|/ɣ-ɰ/|xa xube|GXA|
 |34 |                |             |       ဠ        |     ဠ ကလီ    |    ဠ.လီ    |  လးဂလံၤ  |ฬ|ฬะ ฟะหลิ/ฬะ ลม|/l/|la galii/la lom|LLA|
 |35 |                |             |       ဌ        |     ဋာ ထီး    |  ဌ.ထီ့       |   ထးထံ  |ฐ|ฐะ ที|/tʰ/|tha thii|TTHA|
 |36 |                |             |       ၯာ/ဧ     | ၯာ ကော်ဘိုး/ၯာ ဟူဘေ့ | ၯ.ၯါခေါဟ်ၜံင် |   ဧးကီာ်ဘိ   |ห͟ง|หจ่า ดุบุ|/ɣ/|xa xoboo|KXA|
