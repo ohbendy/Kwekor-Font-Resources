@@ -54,5 +54,9 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |40 | ![Kwekor-aa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/03cf971e-01b5-4cc6-9cf3-486701253550) |          |          |          |          |          |          |          |          |          |          |
 |41 | ![Kwekor-i](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9b451685-ed0b-4bee-947f-f9ac2aa12dfb) |          |          |          |          |          |          |          |          |          |          |
 |42 | ![Kwekor-ii](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/1e7f7e42-80b2-45ef-b3a4-6d1f6b51fb2e) |          |          |          |          |          |          |          |          |          |          |
+|43 | ![Kwekor-y](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c4652d1b-0302-48fc-b018-ef39ecc2fa1a) |          |          |          |          |          |          |          |          |          |          |
+|44 | ![Kwekor-u](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/547aca6e-6ea2-452d-8ff4-f033b78beca9) |          |          |          |          |          |          |          |          |          |          |
+|45 | ![Kwekor-e](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/30847f75-36d4-4215-88c8-a393a7f4f0b9) |          |          |          |          |          |          |          |          |          |          |
+
 
 
