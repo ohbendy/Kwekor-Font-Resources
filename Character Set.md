@@ -79,7 +79,7 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |56 | ![KwekormedialRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ec06c92c-8934-4a80-b0bd-2a26d15802bf) |           |          |          |          |          |          |          |          |          |          |
 |57 | ![KwekormedialHa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d5134cbe-c6b1-470c-9e10-3bdb7d953644) |           |          |          |          |          |          |          |          |          |          |
 
-# Other
+# Symbols
 
 | # | Kwekor letter | Kwekor name | Myanmar letter | Burmese name |  Pwo name <br>(Hpa-An dialect) | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
