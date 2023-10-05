@@ -4,7 +4,7 @@ The Burmese, Thai and English transcriptions here come from different sources. A
 
 Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, and for those letters that are shared between both languages, the sound values may differ. IPA values are extremely uncertain.
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 | 1 |![KwekorKa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a6cff939-5c2f-4892-afcc-47f6f4be2ec9) |             |      က        |     ကာ ခို့     |  က.ခေါဟ်   |    ကးခိၣ်    |      ก      |   กะ โค   | /k/ |    ka kho    |     KA                 |
 | 2 |![KwekorKha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f02d6164-3bdb-4c05-b633-cef34b9d9804) |             |       ခ        |     ခါ ခီး     |    ခ.ခါင့်    |     ခးခံ    |      ข      |    คะ คี   | /kʰ/|   kha khaing / kha khi |   KHA        |
@@ -48,7 +48,7 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 
 # Vowels
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 |40 | ![Kwekor-aa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/03cf971e-01b5-4cc6-9cf3-486701253550) |           | ◌ာ, ◌ါ |    | ဍွါ်သင့်      |          |        |          | /a/ |        |          |
 |41 | ![Kwekor-i](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9b451685-ed0b-4bee-947f-f9ac2aa12dfb)  |           | ◌ိ     |    | တင်ဍွါ်      |          |        |          | /i/ |        |          |
@@ -62,7 +62,7 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 
 # Tonemarks
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 |49 | ![Kwekortone1](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/499ae851-ff2c-4896-8ffd-60c097412392) |           |          |          |          |          |          |          |          |          |          |
 |50 | ![Kwekortone2](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b888412e-b94a-4613-b2b4-bb7a5740509a) |           |          |          |          |          |          |          |          |          |          |
@@ -73,7 +73,7 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 
 # Medials
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 |55 | ![KwekormedialYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/5dab233a-2639-4c99-8420-8f6566aa9331) |           |          |          |          |          |          |          |          |          |          |
 |56 | ![KwekormedialRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ec06c92c-8934-4a80-b0bd-2a26d15802bf) |           |          |          |          |          |          |          |          |          |          |
@@ -81,7 +81,7 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 
 # Symbols
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 |58 | ![Kwekor locative](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7368ea6b-73f8-4fb0-a57a-98746f6392a4)  |           |          |          | ၮှ်        |          |          |          |          | nê          |          |
 |59 | ![Kwekor completed](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/48a6a027-6e4c-4928-bd28-a94c0204fa40) |           |          |          | ၯံင်       |          |          |          |          | wī         |          |
