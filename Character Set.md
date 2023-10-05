@@ -4,7 +4,7 @@ The Burmese, Thai and English transcriptions here come from different sources. A
 
 Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, and for those letters that are shared between both languages, the sound values may differ. IPA values are extremely uncertain.
 
-| # | Kwekor letter | Kwekor name | Myanmar letter | Burmese name |  Pwo name <br>(Hpa-An dialect) | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+| # | Kwekor letter | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 | 1 |![KwekorKa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a6cff939-5c2f-4892-afcc-47f6f4be2ec9) |             |      က        |     ကာ ခို့     |  က.ခေါဟ်   |    ကးခိၣ်    |      ก      |   กะ โค   | /k/ |    ka kho    |     KA                 |
 | 2 |![KwekorKha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f02d6164-3bdb-4c05-b633-cef34b9d9804) |             |       ခ        |     ခါ ခီး     |    ခ.ခါင့်    |     ခးခံ    |      ข      |    คะ คี   | /kʰ/|   kha khaing / kha khi |   KHA        |
@@ -86,5 +86,5 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |58 | ![Kwekor locative](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7368ea6b-73f8-4fb0-a57a-98746f6392a4) |           |          |          |          |          |          |          |          |          |          |
 |59 | ![Kwekor completed](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/48a6a027-6e4c-4928-bd28-a94c0204fa40) |           |          |          |          |          |          |          |          |          |          |
 
-
+\* Pwo communities seem to have different names for some letters. Here we list the names in the Hpa-An dialect.
 
