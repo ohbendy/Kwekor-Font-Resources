@@ -46,7 +46,6 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |38 |![KwekorNna](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c16ecdc1-f74c-4e28-999a-a565bfda5ccf) |             |       ဏ       |     ဏ နား    | ဏ.ဏါ့/ဏာ့     |  နးနၢ်ကု  |ณ|นะ หน่า|/n/|na naa|NNA|
 |39 |![KwekorTta](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c821df22-d6b0-4f76-84e3-181fbcc1348b) |             |       တ       | တာ တက်/တ တယ်| တ.တိုင်      |  တးတၢၣ် |ต|ตะ เตอ|/t/|ta tuk|TTA|
 
-
 # Vowels
 
 | # | Kwekor letter | Kwekor name | Myanmar letter | Burmese name |  Pwo name <br>(Hpa-An dialect) | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
@@ -57,6 +56,28 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |43 | ![Kwekor-y](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c4652d1b-0302-48fc-b018-ef39ecc2fa1a) |          |          |          |          |          |          |          |          |          |          |
 |44 | ![Kwekor-u](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/547aca6e-6ea2-452d-8ff4-f033b78beca9) |          |          |          |          |          |          |          |          |          |          |
 |45 | ![Kwekor-e](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/30847f75-36d4-4215-88c8-a393a7f4f0b9) |          |          |          |          |          |          |          |          |          |          |
+|46 | ![Kwekor-oe](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b9892f0a-f2d0-45e5-9f0f-c9d3d52282fa) |          |          |          |          |          |          |          |          |          |          |
+|47 | ![Kwekor-ae](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/808ba37e-8636-46fd-93ec-909421267504) |           |          |          |          |          |          |          |          |          |          |
+|48 | ![Kwekor-oo](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9f9db0b7-6aa5-4d1b-a0ac-d9178e44234a) |           |          |          |          |          |          |          |          |          |          |
+
+# Tonemarks
+
+|49 | ![Kwekortone1](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/499ae851-ff2c-4896-8ffd-60c097412392) |           |          |          |          |          |          |          |          |          |          |
+|50 | ![Kwekortone2](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b888412e-b94a-4613-b2b4-bb7a5740509a) |           |          |          |          |          |          |          |          |          |          |
+|51 | ![Kwekortone3](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8c38a5b8-863b-444a-9941-2df5ce19e5b5) |           |          |          |          |          |          |          |          |          |          |
+|52 | ![Kwekortone4](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/86ca64a3-c41c-4458-88d7-3ab5b1473513) |           |          |          |          |          |          |          |          |          |          |
+|53 | ![Kwekortone5](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4d59068d-d5b2-4e6f-a21c-60a3383dc871) |           |          |          |          |          |          |          |          |          |          |
+|54 | ![Kwekortone6](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/08a28a99-ca4b-4012-9adb-4d6ffc3b3f0b) |           |          |          |          |          |          |          |          |          |          |
+
+# Medials
+|55 | ![KwekormedialYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/5dab233a-2639-4c99-8420-8f6566aa9331) |           |          |          |          |          |          |          |          |          |          |
+|56 | ![KwekormedialRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ec06c92c-8934-4a80-b0bd-2a26d15802bf) |           |          |          |          |          |          |          |          |          |          |
+|57 | ![KwekormedialHa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d5134cbe-c6b1-470c-9e10-3bdb7d953644) |           |          |          |          |          |          |          |          |          |          |
+
+# Other
+
+|58 | ![Kwekor locative](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7368ea6b-73f8-4fb0-a57a-98746f6392a4) |           |          |          |          |          |          |          |          |          |          |
+|59 | ![Kwekor completed](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/48a6a027-6e4c-4928-bd28-a94c0204fa40) |           |          |          |          |          |          |          |          |          |          |
 
 
 
