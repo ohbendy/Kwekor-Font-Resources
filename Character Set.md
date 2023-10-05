@@ -45,3 +45,14 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 |37 |![KwekorA](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f6bc3ef2-3339-4279-8937-45c63177562b) |             |       အ       |     အ အေ့    |  အ.အှ်ေ     |   အးအ့ၣ်  |อ|อะ อี|/ʔ/|a e|A|
 |38 |![KwekorNna](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c16ecdc1-f74c-4e28-999a-a565bfda5ccf) |             |       ဏ       |     ဏ နား    | ဏ.ဏါ့/ဏာ့     |  နးနၢ်ကု  |ณ|นะ หน่า|/n/|na naa|NNA|
 |39 |![KwekorTta](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c821df22-d6b0-4f76-84e3-181fbcc1348b) |             |       တ       | တာ တက်/တ တယ်| တ.တိုင်      |  တးတၢၣ် |ต|ตะ เตอ|/t/|ta tuk|TTA|
+
+
+# Vowels
+
+| # | Kwekor letter | Kwekor name | Myanmar letter | Burmese name |  Pwo name <br>(Hpa-An dialect) | S’gaw name | Thai letter | Thai name | IPA | English name | Tentative Unicode name |
+|:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
+|40 | ![Kwekor-aa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/03cf971e-01b5-4cc6-9cf3-486701253550) |          |          |          |          |          |          |          |          |          |          |
+|41 | ![Kwekor-i](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9b451685-ed0b-4bee-947f-f9ac2aa12dfb) |          |          |          |          |          |          |          |          |          |          |
+|42 | ![Kwekor-ii](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/1e7f7e42-80b2-45ef-b3a4-6d1f6b51fb2e) |          |          |          |          |          |          |          |          |          |          |
+
+
