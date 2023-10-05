@@ -83,8 +83,8 @@ Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, 
 
 | # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
-|58 | ![Kwekor locative](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7368ea6b-73f8-4fb0-a57a-98746f6392a4)  |           |          |          | ၮှ်        |          |          |          |          | nê          |          |
-|59 | ![Kwekor completed](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/48a6a027-6e4c-4928-bd28-a94c0204fa40) |           |          |          | ၯံင်       |          |          |          |          | wī         |          |
+|58 | ![Kwekor locative](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7368ea6b-73f8-4fb0-a57a-98746f6392a4)  |           | ၌        |          | ၮှ်        |          |          |          |          | nê          |          |
+|59 | ![Kwekor completed](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/48a6a027-6e4c-4928-bd28-a94c0204fa40) |           | ၍        |          | ၯံင်       |          |          |          |          | wī         |          |
 
 \* Pwo communities seem to have different names for some letters. Here we list the names in the Hpa-An dialect.
 
