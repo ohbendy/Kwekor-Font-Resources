@@ -14,7 +14,7 @@ LET: Letalanyah (Buddhist S'gaw Karen)
 
 
 | # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  EPK name | WPK name | CSK Name  | LET Name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
-|:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
+|:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 | 1 |![KwekorKa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a6cff939-5c2f-4892-afcc-47f6f4be2ec9)   |             | က        |     ကာ ခို့     |  က.ခေါဟ်   |          |    ကးခိၣ်    |          | ก |   กะ โค   | /k/ | ka kho | KA |
 | 2 |![KwekorKha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f02d6164-3bdb-4c05-b633-cef34b9d9804)  |             | ခ        |     ခါ ခီး     |    ခ.ခါင့်    |          |     ခးခံ    |          | ข |    คะ คี   | /kʰ/|  kha khaing / kha khi |   KHA        |
 | 3 |![KwekorGa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/67a90526-e684-4206-a7c0-f2611f26a0eb)   |             |  ဂ        |     ဂါ ဂီးဠာ    |   ဂ.ကီးလး  |          |  ကးကံၢ်လာ်  |          |ค|กะ กีลา|/g/|ga gilaa|GA|
