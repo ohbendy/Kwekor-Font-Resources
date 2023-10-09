@@ -1,10 +1,15 @@
 # Consonants
 
-The Burmese, Thai and English transcriptions here come from different sources. As the Kwekor letter names contain sounds alien to those scripts, the names presented here are rather subjective approximations and in some cases are mutually inconsistent; ideally we'd use a standard transcription scheme. 
+The Burmese, Pwo, S'gaw, Thai and English transcriptions here come from different sources. As the Kwekor letter names contain sounds alien to those scripts, the names presented here are rather subjective approximations and in some cases are mutually inconsistent; ideally we'd use a standard transcription scheme. 
 
 Eastern Pwo and S’gaw Karen languages use different subsets of this alphabet, and for those letters that are shared between both languages, the sound values may differ. IPA values are extremely uncertain.
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | Christian S’gaw  | Letalanyah | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+EPK: Eastern Pwo Karen (Buddhist Pwo)
+WPK: Western Pwo Karen (Christian Pwo)
+CSK: Christian S'gaw Karen
+LET: Letalanyah (Buddhist S'gaw Karen)
+
+| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  EPK name | CSK Name  | LET Name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
 | 1 |![KwekorKa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a6cff939-5c2f-4892-afcc-47f6f4be2ec9)   |             | က        |     ကာ ခို့     |  က.ခေါဟ်   |    ကးခိၣ်    |          | ก |   กะ โค   | /k/ | ka kho | KA |
 | 2 |![KwekorKha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f02d6164-3bdb-4c05-b633-cef34b9d9804)  |             | ခ        |     ခါ ခီး     |    ခ.ခါင့်    |     ခးခံ    |          | ข |    คะ คี   | /kʰ/|  kha khaing / kha khi |   KHA        |
