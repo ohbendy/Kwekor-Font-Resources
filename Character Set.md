@@ -6,7 +6,7 @@ WPK : Western Pwo Karen (Christian Pwo), ဖျိၩ့
 
 CSK: Christian S'gaw Karen, ၦၤကညီ
 
-LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ညသ်
+LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ညသ် (Note some letters for Letalanyah are not encoded yet; the closest letters are used in their places)
 
 
 # Consonants
@@ -22,17 +22,17 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 | 7 |![KwekorCha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/bdac1e94-a94f-4e33-a906-c0ce9cfda2ec)  |             |  ဆ    | ဆ စု     | စ စံင်း    | ဆ ဆီၫ  | ဆး ဆဆူၣ်| ဆ ဆူတ်  | ฉ | ซะ ซื่อ   | /sʰ/| sa su               | CHA |
 | 8 |![KwekorJa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c5d0c1c3-8f3c-46e8-8b15-7750105fabc2)   |             |  ဇ     | ဇ မူး    | ဇ မိုင့်      | ဇ မုၬ   | စး မူ   | ဇ မူ     | ช | ชะ มือ   | /s/ | sa muu              | JA  |
 | 9 |![KwekorJha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c0b38c32-895d-4ad6-b87b-b030d8e4ac67)  |             |  ဈ     | ဈ စူးမေ့ | ဈ စူးမေ/စူမီး | ဈ စူၪမံၪ | စး စူမ့ၣ် | ဈ စုမေတ် | ฌ | ซะ ซู    | /s/ | sa suumee           | JHA |
-|10 |![KwekorNya](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d5eff07a-fbfe-403c-a51c-c98dded55274)  |             |  ဉ     |         | ဉ လင်     | ဉ လၫ့   | ဉး လီၤ  | ဉ လံယ်  |    |         | /ɲ/ |                     | NYA | 
+|10 |![KwekorNya](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d5eff07a-fbfe-403c-a51c-c98dded55274)  |             |  ဉ     |         | ဉ လင်     | ဉ လၫ့   | ဉး လီၤ  | ဉ လံယ်   |   |         | /ɲ/ |                     | NYA | 
 |11 |![KwekorNnya](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a318b438-25ed-4cd5-8265-0be3f67b8cb6) |             |  ည    | ည ဝီးညော် | ည ဝီဉာဏ်  | ည ဝံၩညၫ့ | ညး ဝံးညီၣ် | ညဝီဉံသ်  | ญ | ญะ วีญ่อ  | /ɲ/ | nya winyo           | NNYA |
-|12 |![KwekorPa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d740ff95-794c-4459-907c-af2cd0bcd13d)   |             |  ပ     | ပ ပလေ  |   ပ ဖၠေဝ်  | ပ ဖျ့ၩ    | ပးပျ့ ၤ  | ပ ပလေယ် | ป | ปะ ผลี   | /p/ | pa ple             | PA |
+|12 |![KwekorPa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d740ff95-794c-4459-907c-af2cd0bcd13d)   |             |  ပ     | ပ ပလေ  |   ပ ဖၠေဝ်  | ပ ဖျ့ၩ    | ပးပျ့ ၤ  | ပ ပလေယ် | ป | ปะ ผลี   | /p/ | pa ple             | PA   |
 |13 |![KwekorPha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/37c318a9-c878-4d60-b2d1-3391a6f57eaf)  |             |  ဖ     | ဖ ဖေ    |   ဖ ဖါ်   | ဖ ဖံၭ    | ဖး ဖ့ၣ်    | ဖ ဖေဒ်    | ผ | ผะ เผะ  | /pʰ/ | pha phe           | PHA |
-|14 |![KwekorBa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/6338fd9e-c640-4ca4-9d63-6cb323e548b5)   |             |  ဗ     | ဗ ဖွေ    |   ဗ ဃွှိက် | ဗ ဎွံၬ    | ဘး ဘှ့ၣ်   | ဗ ပွေလ်   | พ | ปะ ปุย   | /b/  | ba bwe            | BA |
+|14 |![KwekorBa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/6338fd9e-c640-4ca4-9d63-6cb323e548b5)   |             |  ဗ     | ဗ ဖွေ    |   ဗ ဃွှိက် | ဗ ဎွံၬ    | ဘး ဘှ့ၣ်   | ဗ ပွေလ်   | พ | ปะ ปุย   | /b/  | ba bwe            | BA  |
 |15 |![KwekorBha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f570974e-327d-4673-a442-0a9cc94a7506)  |             |  ဘ    | ဘ ခေါ့မေ့ |  ဘ ခင်းမေံ | ဘ ခၪမံၪ  | ဘး ခီၣ်မ့ၣ် | ဘ ခံတ်မေတ် | ภ | ปะ คอเม | /b/ | ba khome          | BHA |
-|16 |![KwekorMa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/62ca8eb9-5da8-473f-9289-2d96cf8bdd83)   |             |  မ     | မ မဲ     |    မ မဲ   |          | မး မဲ     |          |ม|มะ เม|/m/|ma me|MA|
-|17 |![KwekorYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4e2f10db-0d65-43b0-ac24-60afb7e5cffd)   |             |  ယ    | ယ ယာ   |    ယ ယ်ု   |          | ယး ယၤ     |          |ย|ยะ ห͟ย่า|/j/|ya yaa|YA|
-|18 |![KwekorSha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/df8f0368-2072-4a76-90eb-6f9e2c385f6a)  |             |  ၡ/ယှ  | ၡ ခလေား |   ယှ ခၠိုင့်   |          | ရှး ချၤ     |          |ซ|ฆะ เคละ|/s-ʃ/|sha kloe|SHA|
-|19 |![KwekorRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8f34f8c3-363c-4ce0-a9e3-397670f24985)   |             |  ရ     | ရ ရူ     |   ရ ရုက်     |          | ရး ရူၣ်     |          |ร|ระ เรอะ|/r/|ra ruu|RA|
-|20 |![KwekorWa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/81fc489b-65f2-4d40-8444-58c556f09683)   |             |  ဝ     | ဝ အောနူ  | ဝ အင်းနူ့/အင်းနု့ |          | ဝး အီၣ်နူၢ်  |          |ว|วะ ออนุ|/w/|wa onuu|WA|
+|16 |![KwekorMa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/62ca8eb9-5da8-473f-9289-2d96cf8bdd83)   |             |  မ     | မ မဲ     |    မ မဲ   | မ မဲၩ    | မး မဲ     | မ မဲ       | ม | มะ เม   | /m/ | ma me             | MA  |
+|17 |![KwekorYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4e2f10db-0d65-43b0-ac24-60afb7e5cffd)   |             |  ယ    | ယ ယာ   |    ယ ယ်ု  | ယ ယၧၩ  | ယး ယၤ    | ယ ယယ်    | ย | ยะ ห͟ย่า   | /j/ | ya yaa           | YA  |
+|18 |![KwekorSha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/df8f0368-2072-4a76-90eb-6f9e2c385f6a)  |             |  ၡ/ယှ  | ၡ ခလေား |   ယှ ခၠိုင့်    | ၡ ချိၪ့   | ရှး ချၤ     | ၡ ခၠး      | ซ | ฆะ เคละ  | /s-ʃ/| sha kloe        | SHA |
+|19 |![KwekorRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8f34f8c3-363c-4ce0-a9e3-397670f24985)   |             |  ရ     | ရ ရူ     |   ရ ရုက်     | ရ ရီး    | ရး ရူၣ်    | ရ ရုံလ်     | ร | ระ เรอะ | /r/  | ra ruu          | RA  |
+|20 |![KwekorWa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/81fc489b-65f2-4d40-8444-58c556f09683)   |             |  ဝ     | ဝ အောနူ  | ဝ အင်းနူ့/အင်းနု့ | ဝ အိၩ နူ | ဝး အီၣ်နူၢ်  | ဝ အံနုသ်   | ว | วะ ออนุ  | /w/ | wa onuu         | WA  |
 |21 |![KwekorFa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/2ad5af86-d564-4a11-b821-b142c2ee5a60)   |             |  သ/ဿ | သာ သွီ့   |  ဿ သုဲး/သုဲ   |          | သး သွံၣ်   |          |ฌ/ฟ|ฟะ ชุย|/θ/|tha thwi|FA|
 |22 |![KwekorNa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9a70eb0b-f457-4dc1-8962-a19ffc35a1ca)   |             |  န     | န နာ    |  န နာ/ဏာ့   |          | နး နါဒ့     |          |น|นะ น่าเด|/n/|na naa|NA|
 |23 |![KwekorTha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/6c3b1c34-ba98-497b-81e1-753221ff82aa)  |             |  ထ    | ထ ထု    |   ထ ထံင်း   |          | ထး ထူၣ်   |          |ถ|ทะ ทู|/tʰ/|tha thu|THA|
