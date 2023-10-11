@@ -6,7 +6,7 @@ WPK : Western Pwo Karen (Christian Pwo), ဖျိၩ့
 
 CSK: Christian S'gaw Karen, ၦၤကညီ
 
-LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ညသ် (Note some letters for Letalanyah are not encoded yet; the closest letters are used in their places)
+LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ညသ်
 
 
 # Consonants
@@ -45,13 +45,16 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 |30 |![KwekorMma](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/cc6ed568-594d-49a4-b051-d3eeb29c9469)  |             | မု     | မု မယ်    |   မ မူ့မေံ    | မူမ့ၩ      | မုၢ်မဲာ်      | မုသ် မဲလ်   | ม | มะ มึเม  | /m/   | mu me      | MMA/MU? |
 |31 |![KwekorLa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7b3da64e-c9bd-48a2-acd0-be201c1f5caf)   |             | လ     | လ လား   |   လ လါ/လာ | လ လၩ    | လး လါ   | လ လာ     | ล | ละ ลา   | /l/   | la laa         | LA |
 |32 |![KwekorHa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/67607688-f222-41b1-903e-313bc88ea2b4)   |             | ဟ     | ဟ ဟးဖား |  ဟ ၯုဂ်ဖုံ့   | ဟ ဟူၭဖိၫ့   | ဟး ဟုဖၢ်  | ဟ ဟုဖး    | ห | ห๊ะ โห่พอ | /h/    | ha huphoe     | HA |
-|33 |![KwekorXa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/03559487-aa76-4aa7-b4ed-07d02a79e668)   |             | ၯ/ဂ  | ၯ ဟူဘေ့  |  ၯ ၯုင်ၜိင်း | ဂ ဂီဘံၪ့     | ဂး ဂုၢ်ဘ့ၣ်  | ဂ ဂိုဒ်ဘေတ်  | ฮ͟ง | ฮะ งึเพ | /ɣ-ɰ/ | xa xube       | GXA |
+|33 |![KwekorXa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/03559487-aa76-4aa7-b4ed-07d02a79e668)   |             | ၯ/ဂ  | ၯ ဟူဘေ့  |  ၯ ၯုင်ၜိင်း | ဂ ဂီဘံၪ့     | ဂး ဂုၢ်ဘ့ၣ်  | <img width="60" alt="Letalanyah Kwekor letter name" src="https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/2e5006d1-652b-4955-bde6-0b93ec922675"> \*| ฮ͟ง | ฮะ งึเพ | /ɣ-ɰ/ | xa xube       | GXA |
 |34 |![KwekorLla](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/0e47c9e3-d77a-4aeb-9de2-d0a036b13c31)  |         | ဠ | ဠ ကလီ | ဠ လီ | ဠ လံၩ / လ လံၩ | လး ဂလံၤ | လ ကလီယ် / လ ဂလီယ် | ฬ | ฬะ ฟะหลิ/ฬะ ลม | /l/ | la galii/la lom | LLA |
 |35 |![KwekorTtha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/1db96787-6150-48e8-ad4a-f911978500dd) |             |  ဌ     | ဋာ ထီး   |  ဌ ထီ့ / ထ ထံၫ | ဌ ထံၫ  | ထး ထံ   | ဌ ထီ / ထ ထီ | ฐ | ฐะ ที   | /tʰ/ | tha thii       | TTHA |
 |36 |![KwekorHha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f2e234d4-23b5-4d5e-801c-4f37a9be9fda)  |             |  ၯာ/ဧ | ၯာ ကော်ဘိုး/ၯာ ဟူဘေ့ | ၯ ၯါခေါဟ်ၜံင် | ဧ ခိၬ ဘီၩ့|ဧးကီာ်ဘိ| ဧသ်ကံလ်ဘို |ห͟ง| หจ่า ดุบุ | /ɣ/ | xa xoboo    | HHA/KXA?|
 |37 |![KwekorA](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f6bc3ef2-3339-4279-8937-45c63177562b)    |             |  အ    | အ အေ့    |  အ အှ်ေ   | အ အ့ၪ |အး အ့ၣ် | အ အေတ် |อ|อะ อี|/ʔ/|a e|A|
 |38 |![KwekorNna](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c16ecdc1-f74c-4e28-999a-a565bfda5ccf)  |             |  ဏ    | ဏ နား    | ဏ ဏါ့/ဏာ့ | ဏ နါ |နး နၢ်ကု | ဏ နသ်  |ณ|นะ หน่า|/n/|na naa|NNA|
 |39 |![KwekorTta](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c821df22-d6b0-4f76-84e3-181fbcc1348b)  |             |  တ    | တာ တက်/တ တယ်| တ တိုင်|တ တၧၩ့|တး တၢၣ်|တ တးတ်|ต|ตะ เตอ|/t/|ta tuk|TTA|
+
+\* Letalanyah letters are not yet encoded. <img width="30" alt="ɣ" src="https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8acccf7c-27e5-49e6-a7e0-07a27261b5be">
+ represents /ɣ/
 
 # Vowels
 
