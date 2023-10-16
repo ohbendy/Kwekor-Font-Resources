@@ -54,7 +54,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 |39 |![KwekorTta](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/c821df22-d6b0-4f76-84e3-181fbcc1348b)  |             |  တ    | တာ တက်/တ တယ်| တ တိုင်|တ တၧၩ့|တး တၢၣ်|တ တးတ်|ต|ตะ เตอ|/t/|ta tuk|TTA|
 
 \* Letalanyah letters are not yet encoded. <img width="30" alt="ɣ" src="https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8acccf7c-27e5-49e6-a7e0-07a27261b5be">
- represents /ɣ/
+ represents /ɣ/. See [Letalanyah](https://github.com/ohbendy/Myanmar-font-resources/blob/master/UTN11%20addenda.md#additional-languages) section for more details.
 
 # Vowels
 
