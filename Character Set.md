@@ -68,7 +68,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 |45 | ![Kwekor-e](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/30847f75-36d4-4215-88c8-a393a7f4f0b9)  |             | ◌ေ             |              | ဍွါ်သ်ုဝါ်            | ဒွဲၬၥဝဲၬ       | ဒွ့ဿဝ့း     | ဒွေဒ်သဝေဒ်  | เ◌          |           | /e/ |                   |                        |
 |46 | ![Kwekor-oe](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b9892f0a-f2d0-45e5-9f0f-c9d3d52282fa) |             |                |              | သာယှံင်            |            |          |           |             |           | /ə/ |                   |                        |
 |47 | ![Kwekor-ae](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/808ba37e-8636-46fd-93ec-909421267504) |             | ဲ               |              | ဆေဝ်ဆင့် / စေဝ်စင့်  | စ့ၭစီၪ့        | ဆဲးခီ      | ဆဲဒ်ခံ      | แ◌          |           | /ɛ/ |                   |                        |
-|48 | ![Kwekor-oo](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9f9db0b7-6aa5-4d1b-a0ac-d9178e44234a) |             | ံ               |              | တင်မေဝ်           |            |        |             |             |           | /ɔ/ |                   |                        |
+|48 | ![Kwekor-oo](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9f9db0b7-6aa5-4d1b-a0ac-d9178e44234a) |             | ံ               |              | တင်မေဝ် / တင်မေံ   | တီၫ့မ့ၪ       | တိမဲး       | တံမဲဒ်     |             |           | /ɔ/ |                   |                        |
 
 # Tonemarks
 
