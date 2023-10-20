@@ -79,20 +79,24 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 |50 | ![Kwekortone2](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b888412e-b94a-4613-b2b4-bb7a5740509a) |             |                |              | သုက်ၰံင်         |            |          |           |              |           |     |                   |                        |
 |51 | ![Kwekortone3](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8c38a5b8-863b-444a-9941-2df5ce19e5b5) |             |                |              | ဍွာ်သင့် သာဆိင့်     | ၥၪစံၬ        | သးၡံ      | သၡီ       |              |           |     |                   |                        |
 |52 | ![Kwekortone4](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/86ca64a3-c41c-4458-88d7-3ab5b1473513) |             |                |              | သုက်လင် / သုဂ်လင် | ၥီးလီၫ       | သုးလီၤ     | သုံဒ်လံယ်    |              |           |     |                   |                        |
-|53 | ![Kwekortone5](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4d59068d-d5b2-4e6f-a21c-60a3383dc871) |             |                |              |                |            |          |           |              |           |     |                   |                        |
+|53 | ![Kwekortone5](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4d59068d-d5b2-4e6f-a21c-60a3383dc871) |             |                |              | ဆေဖ           | ဆ့ၪဖၭ       | ဆဲးဖး      | ဆဲဒ်ဖဒ်     |              |           |     |                   |                        |
 |54 | ![Kwekortone6](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/08a28a99-ca4b-4012-9adb-4d6ffc3b3f0b) |             |                |              | ဆေဝ်ထါ်         |            |          |           |              |           |     |                   |                        |
 
 # Medials
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
-|:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
-|55 | ![KwekormedialYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/5dab233a-2639-4c99-8420-8f6566aa9331) |           |          |          | ဍွာ်ယ         |          |          |          |          |          |          |
-|56 | ![KwekormedialRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ec06c92c-8934-4a80-b0bd-2a26d15802bf) |           |          |          | ရာ်ယ         |          |          |          |          |          |          |
-|57 | ![KwekormedialHa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d5134cbe-c6b1-470c-9e10-3bdb7d953644) |           |          |          |          |          |          |          |          |          |          |
+
+
+| # | Kwekor glyph                                                                                                             | Kwekor name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+|:-:|:------------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:---------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
+|55 | ![KwekormedialYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/5dab233a-2639-4c99-8420-8f6566aa9331) |             |                |              | ဍွာ်ယ / ဍွါ်ယ     | ဒွဲၬယၭ        | ဒွ့းယး     | ဒွေဒ်ယဒ်    |             |           |      |                   | Medial Ya             |
+|56 | ![KwekormedialRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ec06c92c-8934-4a80-b0bd-2a26d15802bf) |             |                |              | ရာ်ယ / ရါ်ယ     | ရဲၬယၭ        | ရ့းယး     | ရေဒ်ယဒ်    |             |           |      |                   | Medial Ra             |
+|57 | ![KwekormedialHa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/d5134cbe-c6b1-470c-9e10-3bdb7d953644) |             |                |              |                |            |          |          |             |           |      |                   | Medial Ha              |
 
 # Symbols
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
-|:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
+
+
+| # | Kwekor glyph                                                                                                               | Kwekor name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+|:-:|:--------------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:---------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
 |58 | ![Kwekor locative](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7368ea6b-73f8-4fb0-a57a-98746f6392a4)  |           | ၌        |          | ၮှ်        |          |          |          |          | nê          |          |
 |59 | ![Kwekor completed](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/48a6a027-6e4c-4928-bd28-a94c0204fa40) |           | ၍        |          | ၯံင်       |          |          |          |          | wī         |          |
