@@ -1,6 +1,6 @@
 Here we list each character with its Kwekor glyph and its name in several languages/orthographies, along with its IPA sound value and a tentative Romanisation and Unicode name. Names are collated from the book "ကရင်တို့ရဲ့ လေကွယ်ကော်" (Karen Kwekor script) by ဦးနန္ဒာစာရ (တောကျောင်း-ပန်းတနော်).
 
-EPK : Eastern Pwo Karen (Buddhist Pwo), ပၠုံ Hpa-An dialect
+EPK : Eastern Pwo Karen (Buddhist Pwo), ဖၠို Hpa-An dialect
 
 WPK : Western Pwo Karen (Christian Pwo), ဖျိၩ့
 
