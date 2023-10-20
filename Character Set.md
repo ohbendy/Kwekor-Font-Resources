@@ -72,14 +72,15 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 
 # Tonemarks
 
-| # | Kwekor glyph | Kwekor name | Myanmar letter | Burmese name |  Pwo name\* | S’gaw name | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
-|:-:|:----------------:|:------------|:---------------|:-------------|:-----------|:-----------|:------------|:----------|:----|:-------------|:-----------------------|
-|49 | ![Kwekortone1](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/499ae851-ff2c-4896-8ffd-60c097412392) |           |          |          | လင်         |          |          |          |          |          |          |
-|50 | ![Kwekortone2](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b888412e-b94a-4613-b2b4-bb7a5740509a) |           |          |          | သုက်ၰံင်     |          |          |          |          |          |          |
-|51 | ![Kwekortone3](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8c38a5b8-863b-444a-9941-2df5ce19e5b5) |           |          |          | ဍွာ်သင့် သာဆိင့် |          |          |          |          |          |          |
-|52 | ![Kwekortone4](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/86ca64a3-c41c-4458-88d7-3ab5b1473513) |           |          |          | သုက်လင်     |          |          |          |          |          |          |
-|53 | ![Kwekortone5](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4d59068d-d5b2-4e6f-a21c-60a3383dc871) |           |          |          |            |          |          |          |          |          |          |
-|54 | ![Kwekortone6](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/08a28a99-ca4b-4012-9adb-4d6ffc3b3f0b) |           |          |          | ဆေဝ်ထါ်     |          |          |          |          |          |          |
+
+| # | Kwekor glyph                                                                                                          | Kwekor name | Myanmar letter | Burmese name |  EPK       | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+|:-:|:---------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:-----------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
+|49 | ![Kwekortone1](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/499ae851-ff2c-4896-8ffd-60c097412392) |             |                |              | လင်        |            |          |           |              |           |     |                   |                        |
+|50 | ![Kwekortone2](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b888412e-b94a-4613-b2b4-bb7a5740509a) |             |                |              | သုက်ၰံင်     |            |          |           |              |           |     |                   |                        |
+|51 | ![Kwekortone3](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/8c38a5b8-863b-444a-9941-2df5ce19e5b5) |             |                |              | ဍွာ်သင့် သာဆိင့် | ၥၪစံၬ        | သးၡံ      | သၡီ       |              |           |     |                   |                        |
+|52 | ![Kwekortone4](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/86ca64a3-c41c-4458-88d7-3ab5b1473513) |             |                |              | သုက်လင်     |            |          |           |              |           |     |                   |                        |
+|53 | ![Kwekortone5](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/4d59068d-d5b2-4e6f-a21c-60a3383dc871) |             |                |              |            |            |          |           |              |           |     |                   |                        |
+|54 | ![Kwekortone6](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/08a28a99-ca4b-4012-9adb-4d6ffc3b3f0b) |             |                |              | ဆေဝ်ထါ်     |            |          |           |              |           |     |                   |                        |
 
 # Medials
 
