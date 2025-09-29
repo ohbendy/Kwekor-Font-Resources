@@ -1,4 +1,4 @@
-Here we list each character with its Kwekor glyph and its name in several languages/orthographies, along with its IPA sound value and a tentative Romanisation and Unicode name. Names are collated from the book "ကရင်တို့ရဲ့ လေကွယ်ကော်" (Karen Kwekor script) by ဦးနန္ဒာစာရ (တောကျောင်း-ပန်းတနော်).
+Here we list each character with its Kwekaw glyph and its name in several languages/orthographies, along with its IPA sound value and a tentative Romanisation and Unicode name. Names are collated from the book "ကရင်တို့ရဲ့ လေကွယ်ကော်" (Karen Kwekaw script) by ဦးနန္ဒာစာရ (တောကျောင်း-ပန်းတနော်).
 
 
 EPK : Eastern Pwo Karen (Buddhist Pwo), ဖၠုံ Hpa-An dialect
@@ -12,7 +12,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 
 # Consonants
 
-| # | Kwekor glyph                                                                                | Kwekor name | Myanmar letter | Burmese name |  EPK | WPK | CSK | LET | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+| # | Kwekaw glyph                                                                                | Kwekaw name | Myanmar letter | Burmese name |  EPK | WPK | CSK | LET | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:-------------------------------------------------------------------------------------------------------------------:|:------------|:----------|:-------|:--------|:-------|:-------|:---------|:---|:------|:----|:----------------------|:----|
 | 1 |![KwekorKa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/a6cff939-5c2f-4892-afcc-47f6f4be2ec9)   | ![Kwekor Ka Kho](https://github.com/user-attachments/assets/4809f4a6-e289-4938-b072-814d9aa376ad)| က     | ကာ ခို့   | က ခေါဟ် | က ခွံၪ    | ကး ခိၣ်   | ကခိုတ်     | ก | กะ โค  | /k/ | ka kho               | KWEKAW LETTER KA  |
 | 2 |![KwekorKha](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/f02d6164-3bdb-4c05-b633-cef34b9d9804)  | ![Kwekor Kha Khi](https://github.com/user-attachments/assets/bf88ce66-5c5d-4c74-961a-00db98143efe)| ခ      | ခါ ခီး   | ခ ခါင့်    | ခ ခဲၫ့    | ခး ခံ     | ခခီ       | ข | คะ คี   | /kʰ/| kha khaing / kha khi | KWEKAW LETTER KHA |
@@ -58,7 +58,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
  represents /ɣ/. See [Letalanyah](https://github.com/ohbendy/Myanmar-font-resources/blob/master/UTN11%20addenda.md#additional-languages) section for more details.
 
 # Independent Vowels
-| # | Kwekor glyph                                                                                                        | Kwekor name | Myanmar letter | Burmese name |  EPK             | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+| # | Kwekaw glyph                                                                                                        | Kwekaw name | Myanmar letter | Burmese name |  EPK             | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:-------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:-----------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
 |40 | ![Kwekor Independent I](https://github.com/user-attachments/assets/a05febf0-16a8-4ab1-96f4-37437874deb2)            |             | ဣ             |              |                  |            |          |           | อิ           |           | /i/ | I                 | KWEKAW LETTER I        | 
 |40 | ![Kwekor Independent II](https://github.com/user-attachments/assets/89e724db-9e2a-4fbe-97bd-bace30b76d50)           |             | ဤ             |              |                  |            |          |           | อี           |           | /iː/ | II               | KWEKAW LETTER I        | 
@@ -68,7 +68,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 
 # Vowels
 
-| # | Kwekor glyph                                                                                                        | Kwekor name | Myanmar letter | Burmese name |  EPK             | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+| # | Kwekaw glyph                                                                                                        | Kwekaw name | Myanmar letter | Burmese name |  EPK             | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:-------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:-----------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
 |40 | ![Kwekor-aa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/03cf971e-01b5-4cc6-9cf3-486701253550) |             | ◌ာ, ◌ါ          |              | ဍွါ်သင့်             | ဒွဲၬၥး        | ဒွ့းသီ      | ဒွေဒ်သံ     | ◌า          |           | /a/ |                   |                        |
 |41 | ![Kwekor-i](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/9b451685-ed0b-4bee-947f-f9ac2aa12dfb)  |             | ◌ိ              |              | တင်ဍွါ်             | တီၫ့ဒွဲၬ       | တီဒွ့း      | တံဒွေဒ်     | ◌ิ           |           | /i/ |                   |                        |
@@ -83,7 +83,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 # Tonemarks
 
 
-| # | Kwekor glyph                                                                                                          | Kwekor name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+| # | Kwekaw glyph                                                                                                          | Kwekaw name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:---------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:---------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
 |49 | ![Kwekortone1](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/499ae851-ff2c-4896-8ffd-60c097412392) |             |                |              | လင်            | လၩ့         | လီၤ       | လံယ်      |              |           |     |                   |                        |
 |50 | ![Kwekortone2](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/b888412e-b94a-4613-b2b4-bb7a5740509a) |             |                |              | သုက်ၰံင်         |            |          |           |              |           |     |                   |                        |
@@ -96,7 +96,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 
 
 
-| # | Kwekor glyph                                                                                                             | Kwekor name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+| # | Kwekaw glyph                                                                                                             | Kwekaw name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:------------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:---------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
 |55 | ![KwekormedialYa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/5dab233a-2639-4c99-8420-8f6566aa9331) |             |                |              | ဍွာ်ယ / ဍွါ်ယ     | ဒွဲၬယၭ        | ဒွ့းယး     | ဒွေဒ်ယဒ်    |             |           |      |                   | Medial Ya             |
 |56 | ![KwekormedialRa](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/ec06c92c-8934-4a80-b0bd-2a26d15802bf) |             |                |              | ရာ်ယ / ရါ်ယ     | ရဲၬယၭ        | ရ့းယး     | ရေဒ်ယဒ်    |             |           |      |                   | Medial Ra             |
@@ -106,7 +106,7 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 
 
 
-| # | Kwekor glyph                                                                                                               | Kwekor name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
+| # | Kwekaw glyph                                                                                                               | Kwekaw name | Myanmar letter | Burmese name |  EPK           | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:--------------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:---------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
 |58 | ![Kwekor locative](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/7368ea6b-73f8-4fb0-a57a-98746f6392a4)  |             | ၌              |              | ၮှ်             |            |          |           |             |           |     | nê                |                        |
 |59 | ![Kwekor completed](https://github.com/ohbendy/Kwekor-Font-Resources/assets/12471463/48a6a027-6e4c-4928-bd28-a94c0204fa40) |             | ၍              |              | ၯံင်            |            |          |           |             |           |     | wī                |                        |
