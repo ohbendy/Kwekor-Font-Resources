@@ -61,6 +61,8 @@ LET: Letalanyah (Buddhist S'gaw Karen), ပဂညံ/လေလ်တလဒ်ည
 | # | Kwekor glyph                                                                                                        | Kwekor name | Myanmar letter | Burmese name |  EPK             | WPK        | CSK      | LET       | Thai letter | Thai name | IPA | Roman-<br>isation | Tentative Unicode name |
 |:-:|:-------------------------------------------------------------------------------------------------------------------:|:------------|:---------------|:-------------|:-----------------|:-----------|:---------|:----------|:------------|:----------|:----|:------------------|:-----------------------|
 |40 | ![Kwekor Independent I](https://github.com/user-attachments/assets/a05febf0-16a8-4ab1-96f4-37437874deb2)            |             | ဣ             |              |                  |            |          |           | อิ           |           | /i/ | I                 | KWEKAW LETTER I        | 
+|40 | ![Kwekor Independent II](https://github.com/user-attachments/assets/89e724db-9e2a-4fbe-97bd-bace30b76d50)           |             | ဤ             |              |                  |            |          |           | อี           |           | /iː/ | II               | KWEKAW LETTER I        | 
+
 
 
 
